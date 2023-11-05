@@ -7,3 +7,6 @@ If you want the colored text, open up the terminal anywhere and type: `sudo apt 
 
 # Installation Guide
 put `fetch.py` in your HOME folder, install the `shell` script from the Releases tab and put it in /usr/bin/ (This is on Ubuntu, Pop OS etc.), On Arch and others it may be different.
+
+# Supported OS(s)
+Currently supported OS(s) are: `Pop!_OS, ArchLinux, Debian`
